@@ -8,4 +8,4 @@ Type=Application
 StartupWMClass=sun-tools-jconsole-JConsole
 Categories=Development;Monitor;Java;
 Version=1.0
-X-Desktop-File-Install-Version=0.20
+X-Desktop-File-Install-Version=0.21
